@@ -20,8 +20,6 @@ int palindrome(string word, int x=1) {
 }
 ;
 
-
-
 int main() {
 	string word;
 	getline(cin, word);
